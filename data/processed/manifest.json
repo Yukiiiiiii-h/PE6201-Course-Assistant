@@ -1,0 +1,694 @@
+{
+  "materials_dir": "data/materials/CONTENT",
+  "database": "data/processed/pe6201.sqlite",
+  "documents": [
+    {
+      "source_path": "2406.06608v6.pdf",
+      "source_file": "2406.06608v6.pdf",
+      "sha256": "06d9e15bc94457f08dfa24411ced93d626e981a2f805e98b5a0298e906b7c885",
+      "page_count": 80,
+      "errors": [],
+      "extracted_pages": 80
+    },
+    {
+      "source_path": "CLASS 1/case study/Moderna Democratizing Artificial Intelligence.pdf",
+      "source_file": "Moderna Democratizing Artificial Intelligence.pdf",
+      "sha256": "910a299f74bc0fd9ca839351b613139f0453fb8f1357744b5d4f09a1779e0548",
+      "page_count": 26,
+      "errors": [],
+      "extracted_pages": 26
+    },
+    {
+      "source_path": "CLASS 1/CLASS 1 code/PE6201_C2_classifier_vs_api.pdf",
+      "source_file": "PE6201_C2_classifier_vs_api.pdf",
+      "sha256": "ae668466f6fedbf67f1a446abc9962e537a5fdb93905306faee51feac1d074d5",
+      "page_count": 13,
+      "errors": [],
+      "extracted_pages": 13
+    },
+    {
+      "source_path": "CLASS 1/CLASS 1 code/PE6201_C3_tokenizer_demo.pdf",
+      "source_file": "PE6201_C3_tokenizer_demo.pdf",
+      "sha256": "1dcf31766b81442f7bcad41af3927858c3598d5195811490a087ab84407f1115",
+      "page_count": 9,
+      "errors": [],
+      "extracted_pages": 9
+    },
+    {
+      "source_path": "CLASS 1/CLASS 1 SLIDES/PE6201_C0_Opening_Evening.pdf",
+      "source_file": "PE6201_C0_Opening_Evening.pdf",
+      "sha256": "ef0e14645de4983bd7ba1bf545993f2966076ff06d33c39dd47cdb7cd299e70f",
+      "page_count": 12,
+      "errors": [],
+      "extracted_pages": 12
+    },
+    {
+      "source_path": "CLASS 1/CLASS 1 SLIDES/PE6201_C1_Your_intuition_is_wrong.pdf",
+      "source_file": "PE6201_C1_Your_intuition_is_wrong.pdf",
+      "sha256": "707b997a3f0f7bfc126dd5166ced918a2d3ce548da46e3cd4f8be609fd66b7e2",
+      "page_count": 16,
+      "errors": [],
+      "extracted_pages": 16
+    },
+    {
+      "source_path": "CLASS 1/CLASS 1 SLIDES/PE6201_C2_Sorting_vs_making.pdf",
+      "source_file": "PE6201_C2_Sorting_vs_making.pdf",
+      "sha256": "af57e70496f06fbfaf706e1b8c3fb987e69b0e99d48ef57aa73467c14736a4ad",
+      "page_count": 11,
+      "errors": [],
+      "extracted_pages": 11
+    },
+    {
+      "source_path": "CLASS 1/CLASS 1 SLIDES/PE6201_C3_What_scale_changed.pdf",
+      "source_file": "PE6201_C3_What_scale_changed.pdf",
+      "sha256": "874ef43ae14cdbcda88c46542f34d1741b4cb8603d83290a67b0b0de469f7540",
+      "page_count": 19,
+      "errors": [],
+      "extracted_pages": 19
+    },
+    {
+      "source_path": "CLASS 1/CLASS 1 SLIDES/PE6201_C4_Moderna_case.pdf",
+      "source_file": "PE6201_C4_Moderna_case.pdf",
+      "sha256": "b06d28f1ab870f1ffec07edba991c6c6f90e45dd50e550181478bad414aaba22",
+      "page_count": 13,
+      "errors": [],
+      "extracted_pages": 13
+    },
+    {
+      "source_path": "CLASS 1/CLASS 1 SLIDES/PE6201_C5_Choosing_and_close.pdf",
+      "source_file": "PE6201_C5_Choosing_and_close.pdf",
+      "sha256": "4f8ee91b15183ac4f4338a455d658895f732b7f5fd5e191d7e480016b952d32e",
+      "page_count": 12,
+      "errors": [],
+      "extracted_pages": 12
+    },
+    {
+      "source_path": "CLASS 1/CLASS 1 SLIDES/PE6201_Class1_C1_technical_note.pdf",
+      "source_file": "PE6201_Class1_C1_technical_note.pdf",
+      "sha256": "a5eefdf613374bbfeb20d7fffe603001a8d410750ba67caebdf1a22e0947b69e",
+      "page_count": 4,
+      "errors": [],
+      "extracted_pages": 4
+    },
+    {
+      "source_path": "CLASS 1/pre-read study case/PE6201_Class1_Case_Moderna_student_handout.pdf",
+      "source_file": "PE6201_Class1_Case_Moderna_student_handout.pdf",
+      "sha256": "c93cb69512c7f5064e4925f2e87b1a680f050df6dbddbb95e4b780a3ce9e5ae4",
+      "page_count": 2,
+      "errors": [],
+      "extracted_pages": 2
+    },
+    {
+      "source_path": "CLASS 1/pre-read summaries/PE6201_Class1_PreRead_1_Mollick_Co-Intelligence.pdf",
+      "source_file": "PE6201_Class1_PreRead_1_Mollick_Co-Intelligence.pdf",
+      "sha256": "cc3bf823d0c39b2f0ee11c2efd2b33020d95b84e900fb2f49ef4853e2362453a",
+      "page_count": 3,
+      "errors": [],
+      "extracted_pages": 3
+    },
+    {
+      "source_path": "CLASS 1/pre-read summaries/PE6201_Class1_PreRead_2_Stanford_AI_Index_2026.pdf",
+      "source_file": "PE6201_Class1_PreRead_2_Stanford_AI_Index_2026.pdf",
+      "sha256": "13ee6893001eaf196a344b63ebfbd755ebce3e24269f92cf318db3ee106b9018",
+      "page_count": 3,
+      "errors": [],
+      "extracted_pages": 3
+    },
+    {
+      "source_path": "CLASS 1/pre-read summaries/PE6201_Class1_PreRead_3_Karpathy_Intro_to_LLMs.pdf",
+      "source_file": "PE6201_Class1_PreRead_3_Karpathy_Intro_to_LLMs.pdf",
+      "sha256": "86d6cc8a1f24630c1315499bb42e77377ff98d7d8de677bcd0a4c1fe5fcc735b",
+      "page_count": 3,
+      "errors": [],
+      "extracted_pages": 3
+    },
+    {
+      "source_path": "CLASS 1/pre-read summaries/PE6201_Class1_PreRead_4_Hassabis_AlphaFold3.pdf",
+      "source_file": "PE6201_Class1_PreRead_4_Hassabis_AlphaFold3.pdf",
+      "sha256": "b12e240e2f0ca366f55a24b0cb74706dad5a86663ad46ef563a2a85b63c792b5",
+      "page_count": 2,
+      "errors": [],
+      "extracted_pages": 2
+    },
+    {
+      "source_path": "CLASS 1/pre-read summaries/PE6201_Class1_PreRead_5_LeCun_Autonomous_Machine_Intelligence.pdf",
+      "source_file": "PE6201_Class1_PreRead_5_LeCun_Autonomous_Machine_Intelligence.pdf",
+      "sha256": "0f224f06593441ead3dfb8ebdde6ad3a4d8504adfba466c5564a17990ff345e6",
+      "page_count": 3,
+      "errors": [],
+      "extracted_pages": 3
+    },
+    {
+      "source_path": "CLASS 1/pre-read summaries/pre read 2 base document.pdf",
+      "source_file": "pre read 2 base document.pdf",
+      "sha256": "fff5ac1df971cee7daf847fa5ed00dd7444db693092821c3e691debc1eaada09",
+      "page_count": 425,
+      "errors": [],
+      "extracted_pages": 425
+    },
+    {
+      "source_path": "CLASS 1/pre-read summaries/pre read 5 base document.pdf",
+      "source_file": "pre read 5 base document.pdf",
+      "sha256": "5dda279009beae358f08b18b2a4374bfbe65f8c9ed773ea0b9b49f9068566022",
+      "page_count": 62,
+      "errors": [],
+      "extracted_pages": 62
+    },
+    {
+      "source_path": "CLASS 2/case study/DBS AI Journey.pdf",
+      "source_file": "DBS AI Journey.pdf",
+      "sha256": "ab73fee83081fc83f00bde135411e2bcb353dd90df2911deb49f674811283b40",
+      "page_count": 25,
+      "errors": [],
+      "extracted_pages": 25
+    },
+    {
+      "source_path": "CLASS 2/class slides/PE6201_Class2_C1_The_modern_AI_stack.pdf",
+      "source_file": "PE6201_Class2_C1_The_modern_AI_stack.pdf",
+      "sha256": "16adf76312d8f50f21aa75321dd1152c072989ebcf0afd564c27a982b548b194",
+      "page_count": 16,
+      "errors": [],
+      "extracted_pages": 16
+    },
+    {
+      "source_path": "CLASS 2/class slides/PE6201_Class2_C2_Build_vs_buy.pdf",
+      "source_file": "PE6201_Class2_C2_Build_vs_buy.pdf",
+      "sha256": "795c55f53442e4dd9cf565068b86a1e2ca979e5df2ed8591b1e45939b0014bd1",
+      "page_count": 13,
+      "errors": [],
+      "extracted_pages": 13
+    },
+    {
+      "source_path": "CLASS 2/class slides/PE6201_Class2_C3_RAG.pdf",
+      "source_file": "PE6201_Class2_C3_RAG.pdf",
+      "sha256": "35f442fa5998274e6daac0a1ed9158e423acbe9fce430a1c5a16b6995eeee4c3",
+      "page_count": 25,
+      "errors": [],
+      "extracted_pages": 25
+    },
+    {
+      "source_path": "CLASS 2/class slides/PE6201_Class2_C4_Evals_and_A1.pdf",
+      "source_file": "PE6201_Class2_C4_Evals_and_A1.pdf",
+      "sha256": "aa911f99019eaf2cddeb3f2a9cdd3cda7b25911867c542a42193880464e594b6",
+      "page_count": 19,
+      "errors": [],
+      "extracted_pages": 19
+    },
+    {
+      "source_path": "CLASS 2/notebook/PE6201_Class2_RAG_api.pdf",
+      "source_file": "PE6201_Class2_RAG_api.pdf",
+      "sha256": "abc4a85d1e78547cd994b989131e2b8112d623eacac9584f6d0baea9f51ebcd7",
+      "page_count": 15,
+      "errors": [],
+      "extracted_pages": 15
+    },
+    {
+      "source_path": "CLASS 2/notebook/PE6201_Class2_RAG_local.pdf",
+      "source_file": "PE6201_Class2_RAG_local.pdf",
+      "sha256": "582399ab1e165918105bb51217254c9a41f888ba7f6afe0ef9a92850b4908e65",
+      "page_count": 15,
+      "errors": [],
+      "extracted_pages": 15
+    },
+    {
+      "source_path": "CLASS 2/pre read and study case/PE6201_Class2_Case_DBS_student_handout.pdf",
+      "source_file": "PE6201_Class2_Case_DBS_student_handout.pdf",
+      "sha256": "ad8d5b3d18efbff82f3db54b4a3275275f9e5e5982ce1c61650c53cab6914328",
+      "page_count": 2,
+      "errors": [],
+      "extracted_pages": 2
+    },
+    {
+      "source_path": "CLASS 2/pre read and summaries/PE6201_Class2_PreRead_1_a16z_Emerging_Architectures.pdf",
+      "source_file": "PE6201_Class2_PreRead_1_a16z_Emerging_Architectures.pdf",
+      "sha256": "a0ff5938e81272b62fff89ff18248fb2317945e64daa08ad130ffa725c8e4742",
+      "page_count": 3,
+      "errors": [],
+      "extracted_pages": 3
+    },
+    {
+      "source_path": "CLASS 2/pre read and summaries/PE6201_Class2_PreRead_2_Huyen_Designing_ML_Systems.pdf",
+      "source_file": "PE6201_Class2_PreRead_2_Huyen_Designing_ML_Systems.pdf",
+      "sha256": "ceddd581e35138f371df3ad0b87420e070f6805a2065b72f6183e7d57e07cf5f",
+      "page_count": 3,
+      "errors": [],
+      "extracted_pages": 3
+    },
+    {
+      "source_path": "CLASS 2/pre read and summaries/PE6201_Class2_PreRead_3_Karpathy_Software_2.0.pdf",
+      "source_file": "PE6201_Class2_PreRead_3_Karpathy_Software_2.0.pdf",
+      "sha256": "2f1686fa8d0b8263d1f438560a93aea451379ee1e13d42a10c1945ff254c86f3",
+      "page_count": 2,
+      "errors": [],
+      "extracted_pages": 2
+    },
+    {
+      "source_path": "CLASS 2/pre read and summaries/PE6201_Class2_PreRead_4_Husain_Your_AI_Product_Needs_Evals.pdf",
+      "source_file": "PE6201_Class2_PreRead_4_Husain_Your_AI_Product_Needs_Evals.pdf",
+      "sha256": "9034697525ca7dff1d076fecbd130fd8aca459a77560deaf7089e1041cee8d1a",
+      "page_count": 2,
+      "errors": [],
+      "extracted_pages": 2
+    },
+    {
+      "source_path": "CLASS 2/pre read and summaries/PE6201_Class2_PreRead_5_DBS_AI_Powered_Transformation.pdf",
+      "source_file": "PE6201_Class2_PreRead_5_DBS_AI_Powered_Transformation.pdf",
+      "sha256": "42133c146fa1522692e0aaecf63f5e2a07eb732067916b806ac09dcd254f9903",
+      "page_count": 2,
+      "errors": [],
+      "extracted_pages": 2
+    },
+    {
+      "source_path": "CLASS 3/case study/AI Wars in 2025.pdf",
+      "source_file": "AI Wars in 2025.pdf",
+      "sha256": "e53365a28e0072d3e235801cc96db65321b3447b5dd4fabadaf09fefddefd0d2",
+      "page_count": 28,
+      "errors": [],
+      "extracted_pages": 28
+    },
+    {
+      "source_path": "CLASS 3/case study/nature-med-PaLM.pdf",
+      "source_file": "nature-med-PaLM.pdf",
+      "sha256": "2a5bec89b80688c148ccf656f084f2f3588cd024521c5c4a1793d9ca7d8743f4",
+      "page_count": 20,
+      "errors": [],
+      "extracted_pages": 17
+    },
+    {
+      "source_path": "CLASS 3/class slides/PE6201_Class3_C0_Opener.pdf",
+      "source_file": "PE6201_Class3_C0_Opener.pdf",
+      "sha256": "c4779509ef40629653d4fb191d7ee4b74a60586eb6f25ed967c508c870978119",
+      "page_count": 8,
+      "errors": [],
+      "extracted_pages": 8
+    },
+    {
+      "source_path": "CLASS 3/class slides/PE6201_Class3_C1_Inside_the_model.pdf",
+      "source_file": "PE6201_Class3_C1_Inside_the_model.pdf",
+      "sha256": "6084025c280f922b354ced35a64867def3ac2fd9836839395737ac6a895725a4",
+      "page_count": 20,
+      "errors": [],
+      "extracted_pages": 20
+    },
+    {
+      "source_path": "CLASS 3/class slides/PE6201_Class3_C2_Steer_it_and_prove_it.pdf",
+      "source_file": "PE6201_Class3_C2_Steer_it_and_prove_it.pdf",
+      "sha256": "a03cb096eb3194a20db55abcab8b9835259f6125924ab6810d775713282e7629",
+      "page_count": 25,
+      "errors": [],
+      "extracted_pages": 25
+    },
+    {
+      "source_path": "CLASS 3/class slides/PE6201_Class3_C3_Token_economics_and_case.pdf",
+      "source_file": "PE6201_Class3_C3_Token_economics_and_case.pdf",
+      "sha256": "1eaf26a82f367238640b9bcd68488db8c20aff7de0d528d596a312b9ba9ffd9e",
+      "page_count": 24,
+      "errors": [],
+      "extracted_pages": 24
+    },
+    {
+      "source_path": "CLASS 3/notebook/PE6201_Class3_Extract_api.pdf",
+      "source_file": "PE6201_Class3_Extract_api.pdf",
+      "sha256": "89f145bfc5693345f327e4c56e7572423162e70db7199dd1aeb6356a9cdecb62",
+      "page_count": 22,
+      "errors": [],
+      "extracted_pages": 22
+    },
+    {
+      "source_path": "CLASS 3/pre read and summaries/PE6201_Class3_PreRead_1_Karpathy_Lets_Build_GPT.pdf",
+      "source_file": "PE6201_Class3_PreRead_1_Karpathy_Lets_Build_GPT.pdf",
+      "sha256": "03aa3c00a73da81a9811cbaab0bf76cdfe61457c6353cd7d452b86ca64eb3d29",
+      "page_count": 4,
+      "errors": [],
+      "extracted_pages": 4
+    },
+    {
+      "source_path": "CLASS 3/pre read and summaries/PE6201_Class3_PreRead_2_Sutskever_NeurIPS_2024.pdf",
+      "source_file": "PE6201_Class3_PreRead_2_Sutskever_NeurIPS_2024.pdf",
+      "sha256": "36445adbcfd7c28fb86490825bcd284fb5dc50fe9b369a00a876c062b4cbd38e",
+      "page_count": 3,
+      "errors": [],
+      "extracted_pages": 3
+    },
+    {
+      "source_path": "CLASS 3/pre read and summaries/PE6201_Class3_PreRead_3_Anthropic_Prompt_Engineering.pdf",
+      "source_file": "PE6201_Class3_PreRead_3_Anthropic_Prompt_Engineering.pdf",
+      "sha256": "ce1dbca910d1b8079945641c185d3be15f974cb4c33b72abf78a34654dff72b5",
+      "page_count": 4,
+      "errors": [],
+      "extracted_pages": 4
+    },
+    {
+      "source_path": "CLASS 3/pre read and summaries/PE6201_Class3_PreRead_4_Schulhoff_The_Prompt_Report.pdf",
+      "source_file": "PE6201_Class3_PreRead_4_Schulhoff_The_Prompt_Report.pdf",
+      "sha256": "e2d1fd45f1c78fc1cc350c0dd8da014cfc12be8cac00fce05ad3273228b3ffb0",
+      "page_count": 3,
+      "errors": [],
+      "extracted_pages": 3
+    },
+    {
+      "source_path": "CLASS 3/pre read case study/PE6201_Class3_CasePreRead_1_Singhal_Med_PaLM_2.pdf",
+      "source_file": "PE6201_Class3_CasePreRead_1_Singhal_Med_PaLM_2.pdf",
+      "sha256": "ab03c16b93a002beb709fb623819c0f8d6e0b6175bc814520b53368b4ea13a5d",
+      "page_count": 5,
+      "errors": [],
+      "extracted_pages": 5
+    },
+    {
+      "source_path": "CLASS 3/pre read case study/PE6201_Class3_CasePreRead_2_Wu_AI_Wars_in_2025.pdf",
+      "source_file": "PE6201_Class3_CasePreRead_2_Wu_AI_Wars_in_2025.pdf",
+      "sha256": "34b872a681986076a0e35ef59571ef005583013a74f72287d501e6e6967277b0",
+      "page_count": 6,
+      "errors": [],
+      "extracted_pages": 6
+    },
+    {
+      "source_path": "CLASS 4/case study/Anthropic's Next Step - From LLM to Agents.pdf",
+      "source_file": "Anthropic's Next Step - From LLM to Agents.pdf",
+      "sha256": "53529192d8325645759db8d9efd398f7d9ad5bb1d7b2b4aacf969a4d20e2a1b2",
+      "page_count": 29,
+      "errors": [],
+      "extracted_pages": 29
+    },
+    {
+      "source_path": "CLASS 4/class slides/PE6201_Class4_C0_Opener_STUDENT.pdf",
+      "source_file": "PE6201_Class4_C0_Opener_STUDENT.pdf",
+      "sha256": "559426f0587c1e20fd624e4d9779f6581ee3f02dac0ae53bae1c885092d9fb28",
+      "page_count": 9,
+      "errors": [],
+      "extracted_pages": 9
+    },
+    {
+      "source_path": "CLASS 4/class slides/PE6201_Class4_C1_What_is_an_agent_STUDENT.pdf",
+      "source_file": "PE6201_Class4_C1_What_is_an_agent_STUDENT.pdf",
+      "sha256": "b85cf2c120d4246166544c982c19a4630ba060a2344b759a6a774ae57068571d",
+      "page_count": 19,
+      "errors": [],
+      "extracted_pages": 19
+    },
+    {
+      "source_path": "CLASS 4/class slides/PE6201_Class4_C2_Build_it_and_harden_it_STUDENT.pdf",
+      "source_file": "PE6201_Class4_C2_Build_it_and_harden_it_STUDENT.pdf",
+      "sha256": "cb3e142e6f16a06c2d81a630feddc23ee9b7e31e5e6961c39fb887ff81138286",
+      "page_count": 14,
+      "errors": [],
+      "extracted_pages": 14
+    },
+    {
+      "source_path": "CLASS 4/class slides/PE6201_Class4_C3_Agent_economics_and_the_case_STUDENT.pdf",
+      "source_file": "PE6201_Class4_C3_Agent_economics_and_the_case_STUDENT.pdf",
+      "sha256": "f27cc510e9be0dfe43ef27acad861240bd55e5bb4375b7b8e95406cfbfadf0cb",
+      "page_count": 8,
+      "errors": [],
+      "extracted_pages": 8
+    },
+    {
+      "source_path": "CLASS 4/notebook/PE6201_Class4_C2_Agent_Build_PRERUN.pdf",
+      "source_file": "PE6201_Class4_C2_Agent_Build_PRERUN.pdf",
+      "sha256": "6b88411b593779274328496ece1a47894cdeaa71a1e9298b5233797e2d34da89",
+      "page_count": 56,
+      "errors": [],
+      "extracted_pages": 56
+    },
+    {
+      "source_path": "CLASS 4/pre read and summaries/PE6201_Class4_PreRead_1_Anthropic_Building_Effective_Agents.pdf",
+      "source_file": "PE6201_Class4_PreRead_1_Anthropic_Building_Effective_Agents.pdf",
+      "sha256": "e2baa8891f05d43491ca96a14b9c7ce1ab90561503ed82fa1fc0ef94056b95fb",
+      "page_count": 6,
+      "errors": [],
+      "extracted_pages": 6
+    },
+    {
+      "source_path": "CLASS 4/pre read and summaries/PE6201_Class4_PreRead_2_Yao_ReAct.pdf",
+      "source_file": "PE6201_Class4_PreRead_2_Yao_ReAct.pdf",
+      "sha256": "d3c7cfca53e868c2ade6c2a846e52193a1e7f69e7be2e5119f7cd0c525b10bcf",
+      "page_count": 5,
+      "errors": [],
+      "extracted_pages": 5
+    },
+    {
+      "source_path": "CLASS 4/pre read and summaries/PE6201_Class4_PreRead_3_LeCun_Revisit.pdf",
+      "source_file": "PE6201_Class4_PreRead_3_LeCun_Revisit.pdf",
+      "sha256": "1a02e314463b5add9a05189c869299ee4c315be32f6f6c45e12fd8f1d11cd354",
+      "page_count": 3,
+      "errors": [],
+      "extracted_pages": 3
+    },
+    {
+      "source_path": "CLASS 4/pre read and summaries/PE6201_Class4_PreRead_4_Hassabis_Agents_As_Product.pdf",
+      "source_file": "PE6201_Class4_PreRead_4_Hassabis_Agents_As_Product.pdf",
+      "sha256": "98d3ae5a7886aab2fec6260e3ed503c62fdb615f9fe4b28bc8b7ec4a8152a108",
+      "page_count": 5,
+      "errors": [],
+      "extracted_pages": 5
+    },
+    {
+      "source_path": "CLASS 4/pre read and summaries/PE6201_Class4_PreRead_5_Cognition_Devin.pdf",
+      "source_file": "PE6201_Class4_PreRead_5_Cognition_Devin.pdf",
+      "sha256": "63560416dbaddc61cffcd6a5cbf27b9df6ecc994a637f88ae0ff69b7ad170ad3",
+      "page_count": 5,
+      "errors": [],
+      "extracted_pages": 5
+    },
+    {
+      "source_path": "CLASS 4/pre read case study/PE6201_Class4_CasePreRead_1_Yoffie_Anthropic_LLM_to_Agents.pdf",
+      "source_file": "PE6201_Class4_CasePreRead_1_Yoffie_Anthropic_LLM_to_Agents.pdf",
+      "sha256": "8b7ef4371686c0bf93afaf8a84a2c17c1fa40aa3227ace6bb235b9dddac1e527",
+      "page_count": 5,
+      "errors": [],
+      "extracted_pages": 5
+    },
+    {
+      "source_path": "CLASS 5/case study/Ant group (A).pdf",
+      "source_file": "Ant group (A).pdf",
+      "sha256": "f415cc60702c26234bd23203e0a23681129ca968e3611768ce3529ee57336fea",
+      "page_count": 22,
+      "errors": [],
+      "extracted_pages": 22
+    },
+    {
+      "source_path": "CLASS 5/class slides/PE6201_Class5_C0_Where_we_are_STUDENT.pdf",
+      "source_file": "PE6201_Class5_C0_Where_we_are_STUDENT.pdf",
+      "sha256": "a0bdb410bcf9439b8da28d0867e3aecf89cd328931db31a4243b2ab943d0c5c1",
+      "page_count": 11,
+      "errors": [],
+      "extracted_pages": 11
+    },
+    {
+      "source_path": "CLASS 5/class slides/PE6201_Class5_C1_Where_is_AI_worth_building_STUDENT.pdf",
+      "source_file": "PE6201_Class5_C1_Where_is_AI_worth_building_STUDENT.pdf",
+      "sha256": "cb84d5d75ffde255e3dca5ceba5eebdd8bf7c4fe03063fb1c5c5935f5f173d06",
+      "page_count": 31,
+      "errors": [],
+      "extracted_pages": 31
+    },
+    {
+      "source_path": "CLASS 5/class slides/PE6201_Class5_C2_What_does_it_actually_cost_STUDENT.pdf",
+      "source_file": "PE6201_Class5_C2_What_does_it_actually_cost_STUDENT.pdf",
+      "sha256": "8ca32622dbdad3559ba26d2395c7c57b94c76900d8e599d34cbb284bfb7a7381",
+      "page_count": 26,
+      "errors": [],
+      "extracted_pages": 26
+    },
+    {
+      "source_path": "CLASS 5/class slides/PE6201_Class5_C3_Two_archetypes_and_the_Ant_Group_case_STUDENT.pdf",
+      "source_file": "PE6201_Class5_C3_Two_archetypes_and_the_Ant_Group_case_STUDENT.pdf",
+      "sha256": "c3187f756c5c57f2bcc0b5216a8a116a3a48c767e361362e82b8cfae758afed5",
+      "page_count": 12,
+      "errors": [],
+      "extracted_pages": 12
+    },
+    {
+      "source_path": "CLASS 5/notebook/PE6201_Class5_C2_Cost_to_Serve_PRERUN.pdf",
+      "source_file": "PE6201_Class5_C2_Cost_to_Serve_PRERUN.pdf",
+      "sha256": "0f62cfbfbd1db5aa77cec8bd80d174e2a1a2702efe198d22855ed8925e4708bd",
+      "page_count": 11,
+      "errors": [],
+      "extracted_pages": 11
+    },
+    {
+      "source_path": "CLASS 5/pre read and summaries/PE6201_Class5_PreRead_1_Iansiti_Lakhani_Competing_in_the_Age_of_AI.pdf",
+      "source_file": "PE6201_Class5_PreRead_1_Iansiti_Lakhani_Competing_in_the_Age_of_AI.pdf",
+      "sha256": "162caee9de11cdcbe009f95624de86af1f97ca1631e2a843667f37f18343d866",
+      "page_count": 8,
+      "errors": [],
+      "extracted_pages": 8
+    },
+    {
+      "source_path": "CLASS 5/pre read and summaries/PE6201_Class5_PreRead_2_McKinsey_State_of_AI.pdf",
+      "source_file": "PE6201_Class5_PreRead_2_McKinsey_State_of_AI.pdf",
+      "sha256": "2cfd9a255ec6e167f973e7107b851c594a0a46411af178d911608976279ea2fd",
+      "page_count": 8,
+      "errors": [],
+      "extracted_pages": 8
+    },
+    {
+      "source_path": "CLASS 5/pre read and summaries/PE6201_Class5_PreRead_3_AI_Unit_Economics_Cost_to_Serve.pdf",
+      "source_file": "PE6201_Class5_PreRead_3_AI_Unit_Economics_Cost_to_Serve.pdf",
+      "sha256": "0f62a6863cc898187d3450881eb55894ca7b8c4cff2596fc89e91c7934f4e4ae",
+      "page_count": 9,
+      "errors": [],
+      "extracted_pages": 9
+    },
+    {
+      "source_path": "CLASS 5/pre read and summaries/PE6201_Class5_PreRead_4_GraphCast_ClimateTRACE_AI_in_Verticals.pdf",
+      "source_file": "PE6201_Class5_PreRead_4_GraphCast_ClimateTRACE_AI_in_Verticals.pdf",
+      "sha256": "5f1a18cfa5d0cf041655983e3c3bae4b87b7c88495f7b7bb12eac12e6be131cd",
+      "page_count": 8,
+      "errors": [],
+      "extracted_pages": 8
+    },
+    {
+      "source_path": "CLASS 5/pre read study case/PE6201_Class5_CasePreRead_1_Palepu_Zhu_Ant_Group_A.pdf",
+      "source_file": "PE6201_Class5_CasePreRead_1_Palepu_Zhu_Ant_Group_A.pdf",
+      "sha256": "6cc023d3bbf052577446decca06938d1b7c19883eaaba1b396ee661369c639a1",
+      "page_count": 7,
+      "errors": [],
+      "extracted_pages": 7
+    },
+    {
+      "source_path": "CLASS 6/case study/Governing OpenAI (A).pdf",
+      "source_file": "Governing OpenAI (A).pdf",
+      "sha256": "91b5c74f96cb0664ef49e28924b76c59d92379596d2e6256a68c27f7b5e370ff",
+      "page_count": 29,
+      "errors": [],
+      "extracted_pages": 29
+    },
+    {
+      "source_path": "CLASS 6/class slides/PE6201_Class6_C0_The_last_class_STUDENT.pdf",
+      "source_file": "PE6201_Class6_C0_The_last_class_STUDENT.pdf",
+      "sha256": "6406fdde5570abe9b66a35b586a68f0d8a94b47a576a158fe30911e9606a0c05",
+      "page_count": 8,
+      "errors": [],
+      "extracted_pages": 8
+    },
+    {
+      "source_path": "CLASS 6/class slides/PE6201_Class6_C1_How_each_kind_of_AI_breaks_STUDENT.pdf",
+      "source_file": "PE6201_Class6_C1_How_each_kind_of_AI_breaks_STUDENT.pdf",
+      "sha256": "cd5eedaa1cbf6fc991402193586ff1d18229d321977fcbf0a5948703b9431472",
+      "page_count": 23,
+      "errors": [],
+      "extracted_pages": 23
+    },
+    {
+      "source_path": "CLASS 6/class slides/PE6201_Class6_C2_What_you_owe_and_how_it_breaks_STUDENT.pdf",
+      "source_file": "PE6201_Class6_C2_What_you_owe_and_how_it_breaks_STUDENT.pdf",
+      "sha256": "858fda516df61af3605eae95fd9d9e4f59e2d670c8957f0122c379deb125796d",
+      "page_count": 20,
+      "errors": [],
+      "extracted_pages": 20
+    },
+    {
+      "source_path": "CLASS 6/class slides/PE6201_Class6_C3_The_frontier_the_case_and_the_course_STUDENT.pdf",
+      "source_file": "PE6201_Class6_C3_The_frontier_the_case_and_the_course_STUDENT.pdf",
+      "sha256": "588b644d8f863317f38edd5a0830b9841d33fdc6aef3bf4cb37a3ca8488f0b0d",
+      "page_count": 16,
+      "errors": [],
+      "extracted_pages": 16
+    },
+    {
+      "source_path": "CLASS 6/class slides/PE6201_Class6_Close_After_MSEAI_STUDENT.pdf",
+      "source_file": "PE6201_Class6_Close_After_MSEAI_STUDENT.pdf",
+      "sha256": "f05453f1807d790d4f928f8d23a999a846565a23b44942dc15dc31c7ae97a17b",
+      "page_count": 7,
+      "errors": [],
+      "extracted_pages": 7
+    },
+    {
+      "source_path": "CLASS 6/pre read and summaries/PE6201_Class6_PreRead_1_Failure_Modes_and_Responsible_Deployment.pdf",
+      "source_file": "PE6201_Class6_PreRead_1_Failure_Modes_and_Responsible_Deployment.pdf",
+      "sha256": "7a59c1a1daacb39e68293c04a38cb4bf68d011ea3420c75717ca042c99842265",
+      "page_count": 9,
+      "errors": [],
+      "extracted_pages": 9
+    },
+    {
+      "source_path": "CLASS 6/pre read and summaries/PE6201_Class6_PreRead_2_OWASP_LLM_Top_10_2026.pdf",
+      "source_file": "PE6201_Class6_PreRead_2_OWASP_LLM_Top_10_2026.pdf",
+      "sha256": "53eb149b8ddef944ced59e54fe8ef42d8c992f2493d403c78a6cdbda740003b5",
+      "page_count": 10,
+      "errors": [],
+      "extracted_pages": 10
+    },
+    {
+      "source_path": "CLASS 6/pre read and summaries/PE6201_Class6_PreRead_3_NIST_AI_RMF_and_EU_AI_Act.pdf",
+      "source_file": "PE6201_Class6_PreRead_3_NIST_AI_RMF_and_EU_AI_Act.pdf",
+      "sha256": "63007fdbd4612eba497c3ec825738521009a469093485a782285641ad0ed0ee2",
+      "page_count": 9,
+      "errors": [],
+      "extracted_pages": 9
+    },
+    {
+      "source_path": "CLASS 6/pre read and summaries/PE6201_Class6_PreRead_4_Singapore_India_China_AI_Governance.pdf",
+      "source_file": "PE6201_Class6_PreRead_4_Singapore_India_China_AI_Governance.pdf",
+      "sha256": "464d88caa16903ef6a327580c976cb636217d21e1bce2b38f9b2c2b9a7bea97b",
+      "page_count": 9,
+      "errors": [],
+      "extracted_pages": 9
+    },
+    {
+      "source_path": "CLASS 6/pre read and summaries/PE6201_Class6_PreRead_5_Hinton_Hassabis_Frontier_Risk.pdf",
+      "source_file": "PE6201_Class6_PreRead_5_Hinton_Hassabis_Frontier_Risk.pdf",
+      "sha256": "33fdbb971321d9ce6a43ca23a8608070c9a4d953f9acab4a84204b0f02ea8189",
+      "page_count": 10,
+      "errors": [],
+      "extracted_pages": 10
+    },
+    {
+      "source_path": "CLASS 6/pre read case study/PE6201_Class6_CasePreRead_1_Paine_Srinivasan_Hurwitz_Governing_OpenAI_A.pdf",
+      "source_file": "PE6201_Class6_CasePreRead_1_Paine_Srinivasan_Hurwitz_Governing_OpenAI_A.pdf",
+      "sha256": "94fcb9dc54c97aad9a991c0a0bc2c48f7e9c5fd545d9bc59d4d60469519721a1",
+      "page_count": 4,
+      "errors": [],
+      "extracted_pages": 4
+    },
+    {
+      "source_path": "coding resource/PE6201_Code_Router_Model_Explainer.pdf",
+      "source_file": "PE6201_Code_Router_Model_Explainer.pdf",
+      "sha256": "3fa1546f43d68155a711e1c01aaa99db37e3e8d4c0cd28587ca0f594e4f8012a",
+      "page_count": 3,
+      "errors": [],
+      "extracted_pages": 3
+    },
+    {
+      "source_path": "coding resource/PE6201_Colab_Setup_Guide.pdf",
+      "source_file": "PE6201_Colab_Setup_Guide.pdf",
+      "sha256": "8bb06ccf6bf2f764939e72611aa2a4708ff88065c9801a4f09d8f931426e49ce",
+      "page_count": 7,
+      "errors": [],
+      "extracted_pages": 7
+    },
+    {
+      "source_path": "course poster/PE6201_Class_4_Summary_v2.pdf",
+      "source_file": "PE6201_Class_4_Summary_v2.pdf",
+      "sha256": "5daff520a0036ffc5651630ddbfd13f1b72449f9623298374309da6fd52a207c",
+      "page_count": 1,
+      "errors": [],
+      "extracted_pages": 1
+    },
+    {
+      "source_path": "guest lecture content/[NTU] Building Your AI Moats - Aug-2026 (By Vikash Rungta).pdf",
+      "source_file": "[NTU] Building Your AI Moats - Aug-2026 (By Vikash Rungta).pdf",
+      "sha256": "0bfb98888e3d5157771e2ab3a58b94ba803fd7737977add82e24ad3939d4b4c0",
+      "page_count": 30,
+      "errors": [],
+      "extracted_pages": 28
+    },
+    {
+      "source_path": "guest lecture content/agentic-trust-grad.pdf",
+      "source_file": "agentic-trust-grad.pdf",
+      "sha256": "1eef5f1aae6449470250888977b05a9de152902d18761c69fe82115fe461d4ba",
+      "page_count": 14,
+      "errors": [],
+      "extracted_pages": 14
+    }
+  ],
+  "summary": {
+    "pdfs": 85,
+    "pages": 1558,
+    "extracted_pages": 1553,
+    "empty_pages": 5,
+    "chunks": 2260,
+    "errors": 0
+  }
+}

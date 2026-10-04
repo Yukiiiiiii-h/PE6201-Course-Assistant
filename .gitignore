@@ -1,0 +1,24 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+.env
+.env.*
+!.env.example
+data/raw/*
+!data/raw/README.md
+data/processed/openrouter_budget*.json
+tmp/
+dist/
+evals/generated/
+# Local project context and working notes are not submission artifacts.
+sources/
+AGENTS.md
+task_plan.md
+findings.md
+progress.md
+.planning/
+# Unrelated user project already present in this shared workspace.
+english-knowledge-base/

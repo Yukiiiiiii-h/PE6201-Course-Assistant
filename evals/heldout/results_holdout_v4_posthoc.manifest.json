@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "created_at_utc": "2026-10-04T08:20:01.239401+00:00",
+  "package_version": "0.3.0",
+  "python_version": "3.13.7",
+  "input_csv": "evals/heldout/questions_holdout.csv",
+  "input_sha256": "686dd4bed0fcdf585dc9cf028533d5f9a77d58bc3e58882457edf3bf14c2826f",
+  "output_csv": "evals/heldout/results_holdout_v4_posthoc.csv",
+  "output_sha256": "4bcffa8287308f6e8f75853836288c2c2ce7ce7d5df7f323e9b7eeb47b2d0003",
+  "database": "data/processed/pe6201.sqlite",
+  "database_sha256": "3c0ed52480fab307c05a6a9ea241888946e9d9e68a0646e63b118f63e195c2c6",
+  "corpus_manifest": "data/processed/manifest.json",
+  "corpus_manifest_sha256": "74108511f966e674aa347b8d2b56af1f91c220b1a664c3895ba0f75f803a51d4",
+  "question_count": 20,
+  "strategy": "v2",
+  "generator": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "prompt_version": "2026-10-04.v2",
+  "temperature": 0,
+  "pricing_note": "Estimated local guard only; provider billing is authoritative."
+}
